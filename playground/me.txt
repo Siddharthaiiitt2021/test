@@ -1,0 +1,5 @@
+{{#user}}
+Name: Siddhartha Sharma
+Skills/Technologies : HTML, CSS, JavaScript, JQuery, React.js, Node.js, Express, Git, Github, Bootstrap, Axios, Passport
+Email: siddman17@gmail.com
+{{/user}}
